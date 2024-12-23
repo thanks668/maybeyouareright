@@ -1,0 +1,17 @@
+[Removed]
+
+NPCs in the game can't be killed by any other spell.
+
+NPCs in the game can't be killed by any other spell. Fixed a bug where NPC attacks could cause enemies to shoot themselves in the direction they were pointed.
+
+Fixed a bug where the number of enemies that appear at once was not displayed correctly, even if the target was a monster.
+
+Fixed a bug where the number of enemies that appear at once was not displayed correctly, even if the target was a monster. Fixed a bug where enemies who were able to walk on the ground were able to move through the area.
+
+Fixed a bug where enemies who were able to walk on the ground were able to move through the area. Fixed a bug where enemies who were able to fight in high-level dungeons were not able to attack enemies.
+
+Fixed a bug where enemies who were able to fight in high-level dungeons were not able to attack enemies. Fixed a bug where the number of enemies on the map was not displayed correctly.
+
+Fixed a bug where enemies who were able to fight in high-level dungeons were not able to attack enemies. Fixed a bug where enemies that were able to fight in high-level dungeons were not able to stop enemies. Fixed a bug where enemies that were able to stop enemies were not able to stop any other player from being killed.
+
+Fixed a bug where enemies that were able to stop enemies were not able to stop any other player from being killed. Fixed a bug where enemies that were not able to stop enemies were not able to stop any other player from being killed. Fixed a bug where enemies who were not able to stop enemies were not able to stop any other player from being killed. Fixed a bug where enemies that were not able to stop enemies were not able to stop any other player from being killed. Fixed a bug where enemies that
