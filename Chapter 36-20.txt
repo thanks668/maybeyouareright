@@ -1,0 +1,41 @@
+[Removed]
+
+The new interface should enable the new way to navigate the app while still being able to swipe through the app menu. It should work even if the player is in the middle of a swipe swipe.
+
+Updated icons for the new icons have been added.
+
+Added a new "show icons" option in the settings menu.
+
+Add support for the new "Show and hide icons" option.
+
+Added links to the "Show and hide icons on the home screen" option.
+
+Added the ability to toggle the "Show/Hide icons on the home screen" option in the settings menu.
+
+Added the ability to toggle the "Show/Hide icons on the home screen" option in the settings menu. Added support for the new "Show and hide icons on the home screen" option.
+
+Added a new button in Settings to display the search bar.
+
+Added a new "Show/Hide" option to toggle the "Show/Hide" option in the settings menu.
+
+Added an option to display the search bar when the player is close to the top of the screen.
+
+Added a new "Show/Hide" option to toggle the "Show/Hide" option in the settings menu. Added a new "Show/Hide" option to toggle the "Show/Hide" option in the settings menu.
+
+Added the ability to toggle the "Show/Hide" and "Hide" options in the settings menu, respectively.
+
+Add support for the new "Show/Hide" option.
+
+Added an additional "Show/Hide" option to toggle the "Show/Hide" option in the settings menu.
+
+Added Support for the new "Show/Hide" button in the settings menu.
+
+Added a new "Show/Hide" option to toggle the "Show/Hide" option in the settings menu.
+
+Added a new "Show/Hide" button in the settings menu.
+
+Added a new "Show/Hide" button in the settings menu. Updated the app icon "Show/Hide" option to not show the "Show/Hide" button.
+
+Added support for the new "Show/Hide" option. Updated the app icon "Hide/Hide" option to not show the "Hide/Hide" button.
+
+Fixed an issue with the app
