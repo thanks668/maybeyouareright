@@ -1,0 +1,17 @@
+X is blocking links to Signal - The Verge reports that Apple has confirmed a "bug" that might cause the app to block links on your device.
+
+The Verge reports that Apple has confirmed a "bug" that might cause the app to block links on your device. It also notes that the issue was discovered during a recent phone update to iOS 9.0.2, which will also see iOS 9.0.3 rolling out to older devices.
+
+We reached out to Apple for comment but have yet to receive a response.
+
+Update: Apple has confirmed to The Verge that the issue was discovered during a recent phone update to iOS 9.0.2, which will also see iOS 9.0.3 rolling out to older devices. The update is scheduled to roll out to iOS 9.0.3, but it's not clear if it will be rolled out to older devices.
+
+Update 2: Apple has confirmed that the issue is a bug in the iOS 9.0.3 update that is causing the app to block links on your device.
+
+iOS 9.0.3 is officially rolling out to 32-bit and 64-bit devices starting with iOS 9.0.3 with the iOS 9.0.2 update.
+
+This news should mean you're safe to use Signal to your fullest, and if you have any doubts about whether or not it's working for you, be sure to let us know in the comment section below.
+
+Stay tuned for all the latest news from Signal!
+
+Image credit: Twitter
